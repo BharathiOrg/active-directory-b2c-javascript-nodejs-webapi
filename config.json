@@ -4,7 +4,7 @@
         "clientID": "c96a263f-5cbe-420b-b38b-4a6379f66f7a"
     },
     "policies": {
-        "policyName": "B2C_1_bharathi_b2c_app_signin"
+        "policyName": "B2C_1A_SIGNUP_SIGNIN"
     },
     "resource": {
         "scope": ["task.write", "task.read"]
